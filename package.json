@@ -1,8 +1,8 @@
 {
-  "name": "add-idea-to-mysql",
+  "name": "mysql-data-entry-example",
   "description": "MySQL and Node test application.",
   "license": "GPL-3.0",
-  "repository": "github:kutsan/add-idea-to-mysql",
+  "repository": "github:kutsan/mysql-data-entry-example",
   "scripts": {
     "start": "node server.js",
     "test": ""
